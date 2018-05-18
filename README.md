@@ -1,5 +1,18 @@
 # Notes
+## CLI
+* [VS Code - Command Line Interface](https://code.visualstudio.com/docs/editor/command-line)
 
+## Facebook Authentication
+
+- handled by Expo
+- Register app with Facebook
+- expo.io
+    - docs
+    - Facebook => https://docs.expo.io/versions/v27.0.0/sdk/facebook
+    https://developers.facebook.com/apps/210817259660827/fb-login/quickstart/
+    
+
+## Links
 * [React-Native Diagrams](https://docs.google.com/document/d/13yLa_woGqo12fEHdpkpy7zEgwTaBHzEZRNrfhGkI2is/edit)
 * [MapView](https://docs.expo.io/versions/v27.0.0/sdk/map-view)
 * [React-Native GitHub](https://github.com/facebook/react-native)
