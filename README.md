@@ -3,6 +3,7 @@
 * [VS Code - Command Line Interface](https://code.visualstudio.com/docs/editor/command-line)
 
 ## Installs
+* npm install
 * npm install --save redux react-redux redux-thunk
 
 
