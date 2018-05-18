@@ -22,3 +22,29 @@
 * [Google Cloud Platform Developer Console](https://console.cloud.google.com/functions/list?project=api-project-71293787440&folder&organizationId)
 * [React-Native Elements](https://react-native-training.github.io/react-native-elements/docs/getting_started.html)
 * [Linking Libraries](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#manual-linking)
+
+## Swipe
+swipe
+    >.expo
+    >.git
+    >.vscode
+    >assets
+    >node_modules
+    .babelrc
+    .DS_Store
+    .gitignore
+    .watchmanconfig
+    exp.json
+    main.js
+    npm-debug.log.299
+    npm-debug.log.398
+    package.json 
+
+
+## Dating app
+- integrate Apple Health API to create a fitness/health score for users
+- integrate Mint API to create a financial score for every user
+- integrate FHIR API to add to the hScore (healthScore)
+- Education verification
+- 23andMe API
+- 
