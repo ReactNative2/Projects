@@ -55,4 +55,3 @@ swipe
 - integrate FHIR API to add to the hScore (healthScore)
 - Education verification
 - 23andMe API
-- 
