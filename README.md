@@ -15,6 +15,8 @@
     - docs
     - Facebook => https://docs.expo.io/versions/v27.0.0/sdk/facebook
     https://developers.facebook.com/apps/210817259660827/fb-login/quickstart/
+- install lodash => npm install --save lodash 
+
     
 
 ## Links
