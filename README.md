@@ -6,7 +6,8 @@
 * npm install
 * npm install --save redux react-redux redux-thunk
 
-
+## Expo 
+* [Expo.io](https://expo.io)
 ## Facebook Authentication
 
 - handled by Expo
