@@ -6,6 +6,10 @@
 * npm install
 * npm install --save redux react-redux redux-thunk
 
+## Camera
+* [React-Native Training](https://medium.com/react-native-training)
+* [React-Native Camera Roll](https://medium.com/react-native-training)
+
 ## Expo 
 * [Expo.io](https://expo.io)
 ## Facebook Authentication
